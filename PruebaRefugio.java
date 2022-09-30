@@ -29,7 +29,7 @@ public class PruebaRefugio {
         }
 
         HistorialVacunacion historial = new HistorialVacunacion();
-        historial.addVacunaToCat(new Gato("Gardfield",3,"M"));
+        //historial.addVacunaToCat(new Gato("Gardfield",3,"M"));
 
         //adopta todos los animales
         refugio.adoptAll();
